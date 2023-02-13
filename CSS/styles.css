@@ -1,0 +1,41 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+
+#barcode {
+    border-radius: 12px;
+    width: fit-content;
+    height: 380px;
+}
+
+.card-container {
+    background-color: white;
+    border-color: 10px;
+    margin: 120px auto 0px auto;
+    width: 380px;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.card-desc {
+    display: block;
+    font-size: 22px;
+    text-align: center;
+    margin: 0px auto 30px auto;
+    padding: 0px 12px;
+    color: hsl(220, 15%, 55%);
+}
+
+
+
