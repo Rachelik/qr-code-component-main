@@ -56,12 +56,14 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    /* display: grid;
+    place-items: center; */
 }
 
 h1 {
     text-align: center;
-    margin: 20px auto 12px auto;
-    font-size: 1.5em;
+    margin: 20px 20px 16px;
+    font-size: 1.375em;
     color:hsl(218, 44%, 22%);
     font-weight: 700;
     line-height: 1.35;
@@ -94,7 +96,7 @@ h1 {
 .card-desc {
     display: block;
     text-align: center;
-    margin: 0px auto 22px auto;
+    margin: 0px 10px 22px 10px;
     padding: 0px 12px;
     color: hsl(220, 15%, 55%);
     font-weight: 400;
